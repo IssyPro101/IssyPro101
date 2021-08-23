@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Israel welcome to my Github Page!
+- 👋 Hi, my name is Israel, welcome to my Github Page!
 
 - 👀 I’m interested in ...
 The blockchain and how the blockchain has the change the way we interact and access the internet.
