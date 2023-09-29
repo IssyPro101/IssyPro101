@@ -1,9 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=IssyPro101)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👋 Hi, my name is Israel, welcome to my Github Page!
+👋 Greetings! I'm Israel. Welcome to my GitHub page.
 
-- 👀 I’m interested in ...
-The blockchain and how the blockchain has the changed the way we interact and access the internet.
+🔍 My passion is rooted in the transformative power of blockchain, which has the potential to redefine our interactions and accessibility worldwide.
 
-- 🌱 I’m currently learning ...
-Blockchain development and the intricacies of the blockchain.
+🌱 At present, I'm delving deep into blockchain development, exploring its intricate mechanics and capabilities.
