@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=IssyPro101)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, my name is Israel, welcome to my Github Page!
 
 - 👀 I’m interested in ...
