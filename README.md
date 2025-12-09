@@ -1,1 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=IssyPro101)](https://github.com/ryo-ma/github-profile-trophy)
+I'm an 18 y/o programmer focused on building software that makes an impact on the world.
+
+I'm currently building [Pictra](https://pictra.ai) — an AI designer that creates studio-quality product visuals.
+
+Check out my personal website to learn more about me: https://israeladelaja.com
